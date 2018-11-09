@@ -7,6 +7,7 @@
 //
 
 #import "FSAppDelegate.h"
+#import "FSRootObject.h"
 
 @implementation FSAppDelegate
 

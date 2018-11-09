@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FSNetworkKit'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'A short description of FSNetworkKit.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                       test FSNetworkKit
                        DESC
 
   s.homepage         = 'https://github.com/smallMas/FSNetworkKit'
