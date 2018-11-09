@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FSNetworkKit
 
 [![CI Status](https://img.shields.io/travis/smallMas/FSNetworkKit.svg?style=flat)](https://travis-ci.org/smallMas/FSNetworkKit)
@@ -27,3 +28,6 @@ smallMas, fanshij@163.com
 ## License
 
 FSNetworkKit is available under the MIT license. See the LICENSE file for more info.
+=======
+# FSNetworkKit
+>>>>>>> 5765d67a1bd3e9f058aa404b8e745e8c2f766a6b
