@@ -8,12 +8,18 @@
 
 #import "FSAppDelegate.h"
 #import "FSRootObject.h"
+#import "NSString+FSNetwork.h"
+//#import "FSNetworkKit.h"
 
 @implementation FSAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    NSString *str = @"abcdefg";
+    NSString *md5Str = [str md5];
+    NSLog(@"md5Str >>> %@",md5Str);
     return YES;
 }
 
